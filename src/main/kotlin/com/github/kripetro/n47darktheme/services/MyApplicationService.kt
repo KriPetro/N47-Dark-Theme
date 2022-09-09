@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kripetro.n47darktheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kripetro.n47darktheme.MyBundle
 
 class MyApplicationService {
 
